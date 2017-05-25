@@ -117,7 +117,3 @@ Thank you [Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-chea
 - [GitHub Git tutorial](https://try.github.io/levels/1/challenges/1)
 - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials)
 - [Tower video Git tutorial](https://www.git-tower.com/learn/git/videos)
-
-<style>
-code.inline {line-height: 1.32rem;}
-</style>
