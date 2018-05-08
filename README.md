@@ -112,8 +112,7 @@
 
 Thank you [Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) for the content in this cheat sheet.
 
-## Other great resources for Git
+## Great resources for Git
 
-- [GitHub Git tutorial](https://try.github.io/levels/1/challenges/1)
-- [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials)
-- [Tower video Git tutorial](https://www.git-tower.com/learn/git/videos)
+- [GitHub's Git tutorial](https://try.github.io/levels/1/challenges/1)
+- [Atlassian's Git tutorial](https://www.atlassian.com/git/tutorials)
