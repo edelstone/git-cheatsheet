@@ -114,5 +114,5 @@ Thank you [Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-chea
 
 ## Great resources for Git
 
-- [GitHub's Git tutorial](https://try.github.io/levels/1/challenges/1)
-- [Atlassian's Git tutorial](https://www.atlassian.com/git/tutorials)
+- [GitHub's Git resources](https://try.github.io/)
+- [Atlassian's Git tutorials](https://www.atlassian.com/git/tutorials)
